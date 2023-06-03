@@ -1,0 +1,204 @@
+[INFO ] 2022-10-18 15:05:50,287 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:05:50,349 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:05:50,349 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:05:50,349 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:05:50,450 
+SessionTimer started
+[INFO ] 2022-10-18 15:05:50,450 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:06:56,156 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:06:56,187 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:06:56,187 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:06:56,187 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:06:56,287 
+SessionTimer started
+[INFO ] 2022-10-18 15:06:56,287 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:08:31,355 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:08:31,378 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:08:31,378 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:08:31,378 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:08:31,471 
+SessionTimer started
+[INFO ] 2022-10-18 15:08:31,471 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:09:08,607 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:09:08,640 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:09:08,640 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:09:08,640 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:09:08,723 
+SessionTimer started
+[INFO ] 2022-10-18 15:09:08,723 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:10:05,547 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:10:05,579 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:10:05,579 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:10:05,579 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:10:05,679 
+SessionTimer started
+[INFO ] 2022-10-18 15:10:05,679 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:11:04,660 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:11:04,679 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:11:04,679 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:11:04,679 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:11:04,780 
+SessionTimer started
+[INFO ] 2022-10-18 15:11:04,780 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:11:53,131 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:11:53,146 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:11:53,146 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:11:53,146 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:11:53,246 
+SessionTimer started
+[INFO ] 2022-10-18 15:11:53,246 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:37:34,886 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:37:34,918 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:37:34,918 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:37:34,918 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:37:35,018 
+SessionTimer started
+[INFO ] 2022-10-18 15:37:35,018 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:38:06,753 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:38:06,784 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:38:06,784 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:38:06,784 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:38:06,869 
+SessionTimer started
+[INFO ] 2022-10-18 15:38:06,885 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:38:46,929 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:38:46,961 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:38:46,961 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:38:46,961 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:38:47,045 
+SessionTimer started
+[INFO ] 2022-10-18 15:38:47,045 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:39:47,078 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:39:47,100 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:39:47,100 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:39:47,100 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:39:47,200 
+SessionTimer started
+[INFO ] 2022-10-18 15:39:47,200 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:40:26,194 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:40:26,216 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:40:26,216 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:40:26,216 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:40:26,309 
+SessionTimer started
+[INFO ] 2022-10-18 15:40:26,309 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:44:38,500 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:44:38,538 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:44:38,538 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:44:38,538 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:44:38,638 
+SessionTimer started
+[INFO ] 2022-10-18 15:44:38,638 
+Started QFJ Message Processor
+[ERROR] 2022-10-18 15:49:46,190 
+error during session initialization, continuing...
+quickfix.ConfigError: HeartBtInt not defined
+	at quickfix.SessionSettings.getString(SessionSettings.java:147) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.SessionSettings.getLong(SessionSettings.java:227) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.DefaultSessionFactory.create(DefaultSessionFactory.java:150) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.SessionConnector.createSession(SessionConnector.java:180) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.initiator.AbstractSocketInitiator.createSessions(AbstractSocketInitiator.java:191) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.initiator.AbstractSocketInitiator.createSessionInitiators(AbstractSocketInitiator.java:80) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.SocketInitiator.initialize(SocketInitiator.java:117) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.SocketInitiator.start(SocketInitiator.java:111) [quickfixj-core-2.1.0.jar:2.1.0]
+	at cicc.quickfix.client.FixInitiator.startServer(FixInitiator.java:59) [classes/:?]
+	at cicc.quickfix.client.FixInitiator.main(FixInitiator.java:71) [classes/:?]
+[INFO ] 2022-10-18 15:49:46,190 
+SessionTimer started
+[INFO ] 2022-10-18 15:49:46,196 
+Started QFJ Message Processor
+[ERROR] 2022-10-18 15:50:34,918 
+error during session initialization, continuing...
+quickfix.ConfigError: StartTime not defined
+	at quickfix.SessionSettings.getString(SessionSettings.java:147) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.DefaultSessionSchedule.getTimeEndPoint(DefaultSessionSchedule.java:94) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.DefaultSessionSchedule.<init>(DefaultSessionSchedule.java:85) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.DefaultSessionScheduleFactory.create(DefaultSessionScheduleFactory.java:30) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.DefaultSessionFactory.create(DefaultSessionFactory.java:207) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.SessionConnector.createSession(SessionConnector.java:180) ~[quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.initiator.AbstractSocketInitiator.createSessions(AbstractSocketInitiator.java:191) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.mina.initiator.AbstractSocketInitiator.createSessionInitiators(AbstractSocketInitiator.java:80) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.SocketInitiator.initialize(SocketInitiator.java:117) [quickfixj-core-2.1.0.jar:2.1.0]
+	at quickfix.SocketInitiator.start(SocketInitiator.java:111) [quickfixj-core-2.1.0.jar:2.1.0]
+	at cicc.quickfix.client.FixInitiator.startServer(FixInitiator.java:59) [classes/:?]
+	at cicc.quickfix.client.FixInitiator.main(FixInitiator.java:71) [classes/:?]
+[INFO ] 2022-10-18 15:50:34,918 
+SessionTimer started
+[INFO ] 2022-10-18 15:50:34,918 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 15:51:41,253 
+[FIX.4.2:INBOUND8->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-10-18 15:51:41,285 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 15:51:41,285 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 15:51:41,285 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 15:51:41,385 
+SessionTimer started
+[INFO ] 2022-10-18 15:51:41,385 
+Started QFJ Message Processor

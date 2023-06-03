@@ -1,0 +1,36 @@
+[INFO ] 2022-10-18 17:08:25,432 
+[FIX.4.2:INBOUND8->HKOMSUAT] daily, 00:00:00-UTC - 23:59:59-UTC
+[INFO ] 2022-10-18 17:08:25,460 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 17:08:25,460 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 17:08:25,460 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 17:08:25,550 
+SessionTimer started
+[INFO ] 2022-10-18 17:08:25,552 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 17:25:11,273 
+[FIX.4.2:INBOUND8->HKOMSUAT] daily, 00:00:00-UTC - 23:59:59-UTC
+[INFO ] 2022-10-18 17:25:11,297 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 17:25:11,298 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 17:25:11,298 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 17:25:11,402 
+SessionTimer started
+[INFO ] 2022-10-18 17:25:11,404 
+Started QFJ Message Processor
+[INFO ] 2022-10-18 17:27:57,074 
+[FIX.4.2:INBOUND8->HKOMSUAT] daily, 00:00:00-UTC - 23:59:59-UTC
+[INFO ] 2022-10-18 17:27:57,098 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-10-18 17:27:57,098 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-10-18 17:27:57,098 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-10-18 17:27:57,191 
+SessionTimer started
+[INFO ] 2022-10-18 17:27:57,193 
+Started QFJ Message Processor

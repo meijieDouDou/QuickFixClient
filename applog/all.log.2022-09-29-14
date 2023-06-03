@@ -1,0 +1,16 @@
+[INFO ] 2022-09-29 14:46:10,012 
+[FIX.4.2:INBOUND3->HKOMSUAT] daily, 00:00:00-UTC - 00:00:00-UTC
+[INFO ] 2022-09-29 14:46:10,065 
+Socket option: SocketTcpNoDelay=true
+[INFO ] 2022-09-29 14:46:10,065 
+Socket option: SocketSynchronousWrites=false
+[INFO ] 2022-09-29 14:46:10,065 
+Socket option: SocketSynchronousWriteTimeout=30000
+[INFO ] 2022-09-29 14:46:10,157 
+SessionTimer started
+[INFO ] 2022-09-29 14:46:10,158 
+Started QFJ Message Processor
+[INFO ] 2022-09-29 14:46:15,199 
+Side濉啓鏈夎锛岃妫�鏌xt
+[INFO ] 2022-09-29 14:46:15,200 
+OrderType濉啓閿欒锛岃妫�鏌xt
